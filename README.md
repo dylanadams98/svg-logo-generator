@@ -6,4 +6,6 @@ The application is easily deployable using simple commands, and is structured in
 
 This was a good project to build on command-line application skills and the inquirer package, but getting tests to work was a challenge.
 
+I did receive help from a tutor to help fix some errors with the application.
+
 The code repository is accessible here: https://dylanadams98.github.io/svg-logo-generator
